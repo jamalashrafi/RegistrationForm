@@ -16,7 +16,7 @@ function App() {
           </div>
         </main>
 
-        <footer className="footer">All rights reserved.</footer>
+        <footer className="footer">&copy; All rights reserved.</footer>
       </div>
     </Router>
   );

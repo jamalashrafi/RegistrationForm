@@ -31,6 +31,7 @@ button {
   color: #fff;
   margin: 30px;
   border-radius: 50px;
+  cursor: pointer;
 }
 .full-width {
   width: 100%;
