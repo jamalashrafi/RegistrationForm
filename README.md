@@ -1,4 +1,4 @@
-#Rubico Registration Form
+<h1>Rubico Registration Form</h1>
 Project is aimed at creating a simple registration form and utilising Indexed DB, MySQl for storage.
 
 <h2>Technologies used-</h2>
