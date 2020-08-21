@@ -7,7 +7,7 @@ Project is aimed at creating a simple registration form and utilising Indexed DB
   <li>CSS 3</li>
   <li>React</li>
   <li>Php</li>
-  <li>MySqlL</li>
+  <li>MySql</li>
 </ul>
 
 <h2>Live URL</h2>
