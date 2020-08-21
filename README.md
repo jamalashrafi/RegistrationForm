@@ -1,7 +1,7 @@
-<h2>Rubico Registration Form</h2>
+#Rubico Registration Form
 Project is aimed at creating a simple registration form and utilising Indexed DB, MySQl for storage.
 
-<h3>Technologies used-</h3>
+<h2>Technologies used-</h2>
 <ul>
   <li>HTML 5</li>
   <li>CSS 3</li>
@@ -10,5 +10,5 @@ Project is aimed at creating a simple registration form and utilising Indexed DB
   <li>MySqlL</li>
 </ul>
 
-<h3>Live URL</h3>
+<h2>Live URL</h2>
 https://registration-form-git-master.jamalashrafi.vercel.app/
