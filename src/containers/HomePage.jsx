@@ -90,6 +90,7 @@ const HomePage = () => {
           id="name"
           value={name}
           placeholder="Name"
+          autoComplete="off"
           onChange={(event) => setName(event.target.value)}
         />
         <label htmlFor="name">{nameError}</label>
